@@ -26,6 +26,8 @@ tarefas também atualizando o status da tarefa selecionada. </p>
 
 <p> 1 - Para instalar as dependências </p>
 
+>cd TaskList
+>
 > npm install
 
 <p> 2 - Para rodar o projeto </p>
